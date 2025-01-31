@@ -2,9 +2,11 @@
 	Space + Slime = Spacey Slime?
 ## Example.Luau
 ```luau
-function WhatDoesUserCodeIn(User)
-	return _G[User].CodingLanguages
+print("Hi.")
+while wait() do
+	print("SpaceySlime")
+	if thisisannoying then
+		break
+	end
 end
-
-WhatDoesUserCodeIn("SpaceySlime") --> {"Luau"} --oh. thats pretty obvious. this readme is luau.
 ```
