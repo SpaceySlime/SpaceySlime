@@ -1,2 +1,4 @@
 # IcedLuau
-![Sprout on PenguinMod](https://github.com/SpaceySlime/SpaceySlime/blob/main/penguinmod%20button.png)
+### SpaceySlime
+
+![IcedLuau's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpaceySlime&show_icons=true&theme=radical)
